@@ -1,0 +1,50 @@
+---
+layout: post
+title:  "2016 CQ WPX RTTY Contest"
+date:   2016-02-15 18:00:00
+categories: ham radio, contest, rtty, digital
+---
+
+I'm getting back into ham radio after a long absence. I think the last time I operated was back at the 
+W5OCC station at Oklahoma Christian. It's been so long, I don't even remember what equipment we had. 
+I do recall we had a beam of some sort with a rotor. Anyway, I'll write up another post on what I've 
+been up to getting back into radio.
+<!-- 
+I'm currently in an apartment on the bottom floor, and that doesn't lend itself to a very good antenna. 
+I tried the MFJ hamsticks, and couldn't hear much. I did hear a couple local CW operators, and I emailed 
+them letting them know I heard them. I've heard a few local folks on SSB/Phone as well. I heard a few 
+hams from the region, one barely from Santa Fe, NM, another in Denver. 
+
+I ended up striking up a conversation with a local ham, John. After a few exchanges, he said he had some 
+antenna gear he could donate to me if I wanted. So we setup a time on a sunny Saturday afternoon.
+-->
+
+This weekend was the 2016 CQ WPX RTTY contest. I've never done anything with RTTY, and have never made an 
+HF digital mode contact. But I have a decent radio with a USB connection, and a MacBook, so how hard could 
+it be to figure out?
+
+I strung up a 40' random wire along with a Chameleon base on the ground next to my apartment, with the 
+wire elevated to 10' and angling back to a plastic drain pipe, and down. I didn't know how well this would 
+really work, but I tuned up on 20 meters, and answered an SSB CQ call from a station in Chicago, and he 
+came back to me! Sweet! Only 35 watts of power as well. That night, I made additional contacts into Texas, 
+Kansas, and Missouri on 40 meters.
+
+Back to RTTY. I'd never done anything with RTTY, so I had to read my radio manual along with some web 
+page guides for the connected software and how to get it setup properly. I had been receiving PSK31 fine 
+but had never been able to transmit. With some luck, I was able to make 3 RTTY contacts on 40 meters 
+before calling it a night!
+
+Sunday afternoon rolls around, and I decided to give 20 meters a try. For 3 hours until the end of the 
+contest, I made 57 additional contacts to 17 states, 4 Canadian provinces, and a total of 4 countries.
+
+Not too shabby!!
+
+![North American Stations Worked](/assets/2016-02-15-cq-wpx-rtty-2016-1.jpg)
+![South American Stations Worked](/assets/2016-02-15-cq-wpx-rtty-2016-2.jpg)
+
+A new one for me was Brazil. Because I'm getting back into the hobby, pretty much every contact is a 
+new one!
+
+I heard P49X from Aruba calling CQ, but he was not able to hear me back. That would have been cool.
+
+I'm looking forward to getting on more of the HF digital modes. I had a lot of fun!
