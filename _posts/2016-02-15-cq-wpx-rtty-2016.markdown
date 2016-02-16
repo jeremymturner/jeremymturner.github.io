@@ -39,8 +39,8 @@ contest, I made 57 additional contacts to 17 states, 4 Canadian provinces, and a
 
 Not too shabby!!
 
-![North American Stations Worked](/assets/2016-02-15-cq-wpx-rtty-2016-1.jpg)
-![South American Stations Worked](/assets/2016-02-15-cq-wpx-rtty-2016-2.jpg)
+![North American Stations Worked](/assets/2016-02-15-cq-wpx-rtty-2016-1.jpg){: .max-width-100 }
+![South American Stations Worked](/assets/2016-02-15-cq-wpx-rtty-2016-2.jpg){: .max-width-100 }
 
 A new one for me was Brazil. Because I'm getting back into the hobby, pretty much every contact is a 
 new one!
