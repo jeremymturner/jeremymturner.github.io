@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "A list of ham radio and electronics projects I want to work on"
+date:   2016-03-01 18:00:00
+categories: projects
+---
+
+* Setup a 2m APRS Packet station with one of my unused HTs and a Raspberry Pi
+
+* Build a 2m / 70cm portable ground plane antenna
+
+* Build my own radio control cables using CP2101 UART USB chips
+
+* Build an interchangable headset system
+
+* Build a 4u portable carrying box for my radios that can also serve as a base station setup 
+
+* Do something SDR related
