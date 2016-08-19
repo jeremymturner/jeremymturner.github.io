@@ -2,7 +2,6 @@
 layout: post
 title:  "A list of ham radio and electronics projects I want to work on"
 date:   2016-03-01 18:00:00
-categories: projects
 ---
 
 * Setup a 2m APRS Packet station with one of my unused HTs and a Raspberry Pi
