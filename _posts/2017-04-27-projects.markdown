@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A list of ham radio and electronics projects I want to work on"
-date:   2016-03-01 18:00:00
+date:   2017-04-27 00:00:00
 ---
 
 * Setup a 2m APRS Packet station with one of my unused HTs and a Raspberry Pi
@@ -15,3 +15,14 @@ date:   2016-03-01 18:00:00
 * Build a 4u portable carrying box for my radios that can also serve as a base station setup 
 
 * Do something SDR related
+
+* Build a Quadrifilar Helix Antenna for 2m and 70cm for satellite work
+
+* Build a 12V PowerPole Splitter
+
+* Document and build a better system for rig control on Linux (rigctl? hamlib? udp?)
+  - WSJT-X
+  - Wizkers.io
+  - FLDIGI
+
+* Wire up my desktop speakers to the mixer
